@@ -2,7 +2,7 @@
   "name": "contactmanager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mindprogrammer.github.io/contact_manager_redux/",
+  "homepage": "https://mindprogrammer.github.io/contact_manager_redux",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.1.2",
